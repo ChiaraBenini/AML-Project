@@ -1,0 +1,3 @@
+*.csv
+correlation_results/
+.idea/
